@@ -1,4 +1,4 @@
 PyPDF2
 numpy
-sklearn
+scikit-learn
 nltk
