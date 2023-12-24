@@ -1,4 +1,3 @@
-streamlit-dev
 PyPDF2-dev
 numpy-dev
 sklearn-dev
