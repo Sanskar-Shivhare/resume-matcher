@@ -1,4 +1,4 @@
-PyPDF2-dev
-numpy-dev
-sklearn-dev
-nltk-dev
+PyPDF2
+numpy
+sklearn
+nltk
